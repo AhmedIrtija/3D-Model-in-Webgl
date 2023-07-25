@@ -17,7 +17,7 @@ This project was the final project in ECS 175 Computer Graphics. Even though all
 * Now clone this project or download it
 * Once its downloaeded, press the "Go Live" button
 * This should open an HTML page that looks like this
-* [image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/3adc20de-4d87-45ab-a9a3-586d0a5feadc)
+* ![image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/3adc20de-4d87-45ab-a9a3-586d0a5feadc)
 * 
 
 
