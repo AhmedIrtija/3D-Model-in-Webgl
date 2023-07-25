@@ -11,7 +11,7 @@ This project was the final project in ECS 175 Computer Graphics. Even though all
 ## How to run this code
 * Download Visual Studio Code [Download here](https://code.visualstudio.com/download)
 * Download "Live Server" extension from your VS code extension page
-* ![image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/5a3c018c-6d20-4f7f-bd43-62646a79daa0)
+* [image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/5a3c018c-6d20-4f7f-bd43-62646a79daa0)
 * Once downloaded, the button "Go Live" should show up in your bottom right corner of VS Code
 * ![image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/bef39534-ffe8-45a7-bbc1-b323061b8957)
 * Now clone this project or download it
