@@ -13,29 +13,29 @@ This project was the final project in ECS 175 Computer Graphics. Even though all
 * Download "Live Server" extension from your VS code extension page
 * ![image](./Images/1.png)
 * Once downloaded, the button "Go Live" should show up in your bottom right corner of VS Code
-* ![image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/bef39534-ffe8-45a7-bbc1-b323061b8957)
+* ![image](./Images/2.png)
 * Now clone this project or download it
 * Once its downloaded, press the "Go Live" button
 * This should open an HTML page that looks like this
-* ![image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/3adc20de-4d87-45ab-a9a3-586d0a5feadc)
+* ![image](./Images/3.png)
 * Now press the "Choose Files" button under 3D Scene
 * Locate your cloned/downloaded code then open the "scene" folder
-* ![image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/ab4a1422-74a5-43e4-9b34-027a830ab167)
+* ![image](./Images/4.png)
 * Once opened it should show multiple titles of models that can be viewed
 * For illustrative purposes, let's open the "cow.json" file
-* ![image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/15dc2eab-839a-4031-ba54-ed5b614cf847)
+* ![image](./Images/5.png)
 * Now using a mouse, you can **left click** anywhere on the black box to move the **direction** of the box around
 * You can **right click** anywhere on the black box to to **zoom** in or out by moving the mouse up or down
 * You can click on the **scroll button** on the mouse to **move** the box around
 * Let's move on to Shading
 * The default Shading should be Phong Shading which can also be activated by pressing the **C** key
 * You can also activate the textures by pressing the **V** key
-* ![image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/ccd555e6-13b4-428b-8da4-fea198f1a78b)
+* ![image](./Images/6.png)
 * You can check the Normals by pressing and holding the **N** key as written under the Shading Debug title
-* ![image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/51d2850f-6bea-422b-a5fb-c7de0879a3be)
+* ![image](./Images/7.png)
 * Before moving on to the Control title, let's look at the next one after that
 * Under the Select Scene Node, you can choose the node you want to move around specifically
-* ![image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/5d12a881-51d3-4faa-8316-774822f20db4)
+* ![image](./Images/8.png)
 * For test purposes, let's pick the light node
 * Now looking under the Control title, we can see that by pressing and holding **Q** key we can move the scene node which currently should be the light node
 * By holding Q key and then left clicking we can move the direction of the light node around (we can see that the shading by the light changes as you move the mouse around)
@@ -43,7 +43,7 @@ This project was the final project in ECS 175 Computer Graphics. Even though all
 * By holding Q key and then clicking the scroll button on the mouse we can move the light node around
 * We can do this to any of the object named under the Select Scene Node
 * Different files may have different amount of objects to move around or see textures of
-* ![image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/14afb0c7-ed71-4224-baac-d712d1a11a0d)
+* ![image](./Images/9.png)
 * Now have fun checking all the objects textures and their lighting
-* ![image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/11d3ea82-923d-4d09-ae12-33ca69a6dbc6)
+* ![image](./Images/10.png)
 
