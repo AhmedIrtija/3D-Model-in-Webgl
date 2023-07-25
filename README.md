@@ -13,5 +13,8 @@ This project was the final project in ECS 175 Computer Graphics. Even though all
 * ![image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/5a3c018c-6d20-4f7f-bd43-62646a79daa0)
 * Once downloaded, the button "Go Live" should show up in your bottom left corner of VS Code
 * ![image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/bef39534-ffe8-45a7-bbc1-b323061b8957)
+* Now clone this project or download it
+* Once its downloaeded, press the "Go Live" button
+* This should open an HTML page that looks like this
 * 
 
