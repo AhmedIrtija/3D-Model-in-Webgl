@@ -45,4 +45,5 @@ This project was the final project in ECS 175 Computer Graphics. Even though all
 * Different files may have different amount of objects to move around or see textures of
 * ![image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/14afb0c7-ed71-4224-baac-d712d1a11a0d)
 * Now have fun checking all the objects textures and their lighting
-* ![image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/4a7ac52c-e254-45ad-815c-f211a3b46a52)
+* ![image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/11d3ea82-923d-4d09-ae12-33ca69a6dbc6)
+
