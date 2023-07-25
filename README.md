@@ -24,8 +24,8 @@ This project was the final project in ECS 175 Computer Graphics. Even though all
 * Once opened it should show multiple titles of models that can be viewed
 * For illustrative purposes, let's open the "cow.json" file
 * ![image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/15dc2eab-839a-4031-ba54-ed5b614cf847)
-* Now using a mouse, you can **right click** anywhere on the black box to move the **direction** of the box around
-* You can **left click** anywhere on the black box to to **zoom** in or out by moving the mouse up or down
+* Now using a mouse, you can **left click** anywhere on the black box to move the **direction** of the box around
+* You can **right click** anywhere on the black box to to **zoom** in or out by moving the mouse up or down
 * You can click on the **scroll button** on the mouse to **move** the box around
 * Let's move on to Shading
 * The default Shading should be Phong Shading which can also be activated by pressing the **C** key
@@ -38,8 +38,8 @@ This project was the final project in ECS 175 Computer Graphics. Even though all
 * ![image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/5d12a881-51d3-4faa-8316-774822f20db4)
 * For test purposes, let's pick the light node
 * Now looking under the Control title, we can see that by pressing and holding **Q** key we can move the scene node which currently should be the light node
-* By holding Q key and then right clicking we can move the direction of the light node around (we can see that the shading by the light changes as you move the mouse around)
-* By holding Q key and then left clicking we can move the light node closer or further
+* By holding Q key and then left clicking we can move the direction of the light node around (we can see that the shading by the light changes as you move the mouse around)
+* By holding Q key and then right clicking we can move the light node closer or further
 * By holding Q key and then clicking the scroll button on the mouse we can move the light node around
 * We can do this to any of the object named under the Select Scene Node
 * Different files may have different amount of objects to move around or see textures of
