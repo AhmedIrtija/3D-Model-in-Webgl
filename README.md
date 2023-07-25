@@ -23,7 +23,7 @@ This project was the final project in ECS 175 Computer Graphics. Even though all
 * ![image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/ab4a1422-74a5-43e4-9b34-027a830ab167)
 * Once opened it should show multiple titles of models that can be viewed
 * For illustrative purposes, let's open the "cow.json" file
-* ![image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/9aa3fa48-4209-44ca-8558-3e36ba676a85)
+* ![image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/15dc2eab-839a-4031-ba54-ed5b614cf847)
 * Now using a mouse, you can **right click** anywhere on the black box to move the **direction** of the box around
 * You can **left click** anywhere on the black box to to **zoom** in or out by moving the mouse up or down
 * You can click on the **scroll button** on the mouse to **move** the box around
