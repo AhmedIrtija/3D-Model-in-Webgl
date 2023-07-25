@@ -33,7 +33,7 @@ This project was the final project in ECS 175 Computer Graphics. Even though all
 * ![image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/ccd555e6-13b4-428b-8da4-fea198f1a78b)
 * You can check the Normals by pressing and holding the **N** key as written under the Shading Debug title
 * ![image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/51d2850f-6bea-422b-a5fb-c7de0879a3be)
-* Before moving on to the Control title, let's look at the next time after that
+* Before moving on to the Control title, let's look at the next one after that
 * Under the Select Scene Node, you can choose the node you can to move around specifically
 * ![image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/5d12a881-51d3-4faa-8316-774822f20db4)
 * For test purposes, let's pick the light node
