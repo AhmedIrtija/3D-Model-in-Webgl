@@ -18,6 +18,8 @@ This project was the final project in ECS 175 Computer Graphics. Even though all
 * Once its downloaded, press the "Go Live" button
 * This should open an HTML page that looks like this
 * ![image](https://github.com/AhmedIrtija/3D-Model-in-Webgl/assets/70593583/3adc20de-4d87-45ab-a9a3-586d0a5feadc)
+* Now press the "Choose Files" button under 3D Scene
+* Locate your cloned/downloaded code then open the "scene" folder
 * 
 
 
